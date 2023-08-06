@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 
+// this is a message and have been commited by intellij
+
 @RestController
 public class WelcomeController {
 
@@ -18,7 +20,6 @@ public class WelcomeController {
     public String age() {
         return "My Age is 25.";
     }
-
 
     @GetMapping("/check/status")
     public String checkStatus() {
