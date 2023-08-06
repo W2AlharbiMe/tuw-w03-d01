@@ -36,7 +36,7 @@ public class WelcomeController {
     public ArrayList<String> names() {
         ArrayList<String> n = new ArrayList<>();
 
-        n.add("Abdullah");
+        n.add("Mohammed");
         n.add("Ahmed");
         n.add("Saleh");
 
