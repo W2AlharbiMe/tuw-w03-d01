@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 
-// this is a message and have been commited by intellij
+// this is a message and have been committed by intellij
 
 @RestController
 public class WelcomeController {
